@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Backups locais
+*.bak
+
+# Cópias locais quebradas do Font Awesome / Google Fonts
+# (a página carrega ambos via CDN)
+all.min.css
+css2
+
+# Artefatos do "salvar página" do navegador
+saved_resource.html
+wcrm93k8ea
